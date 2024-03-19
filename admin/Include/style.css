@@ -1,0 +1,110 @@
+.icon a {
+    padding: 10px;
+    font-size: 20px;
+}
+body{
+    background: #2c3e50;
+}
+td img {
+    width: 100px;
+    height: 100px;
+    border: 2px solid #fff;
+}
+img .new{
+    width: 100px;
+    height: 100px;
+}
+h2{
+    /* border: 2px solid #fff; */
+    padding: 10px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    color: #f1c40f;
+    letter-spacing: 15px;
+    margin-bottom: -25px;
+}
+h2 b{
+    color: white;
+}
+.boder{
+    border: 2px dashed #f1c40f;
+}
+.myimg{
+    border: 2px solid #091520;
+}
+.mytable tr td{
+    /* background: #007ee6; */
+    border: 1px solid #091520;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    color: rgb(0, 0, 0);
+}
+
+.mytable th{
+    /* background: #007ee6; */
+    border: 1px solid #091520 !important;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    color: #000000;
+}
+/* .table-bordered{
+    border: 2px solid #252525;
+} */
+.from{
+    /* background: #007ee6; */
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    margin-bottom: 30px;
+    border: 1px solid #000000;
+}
+.from input{
+    border: 1px solid #000000;
+    outline: none;
+}
+.from input[type="text"]{
+    font-weight: 600;
+}
+.from input[type="email"]{
+    font-weight: 600;
+}
+label{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+}
+.mybtn{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600 !important;
+    background: #252525 !important;
+    padding: 10px 210px !important;
+}
+button.btn.btn-dark.mybtn1 a {
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-weight:600;
+    text-decoration: none;
+    
+}
+
+button.btn.btn-dark.mybtn1 {
+    font-weight: 600;
+    width: 25%;
+    padding: 10px 0;
+    background: #0b111d;
+    border-radius: 5px;
+}
+h5{
+    color: white;
+}
+h1 {
+    font-size: 60px !important;
+    font-weight: 800 !important;
+    letter-spacing: 10px;
+    display:block;
+}
+.micon{
+    font-size: 10rem;
+    overflow: hidden;
+}
